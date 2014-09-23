@@ -1,0 +1,7 @@
+C:\Users\Jasper\Documents\GitHub\BasicEquationCalculator\BasicEquationCalculator\bin\Debug\BasicEquationCalculator.exe.config
+C:\Users\Jasper\Documents\GitHub\BasicEquationCalculator\bin\Debug\BasicEquationCalculator.exe.config
+C:\Users\Jasper\Documents\GitHub\BasicEquationCalculator\bin\Debug\BasicEquationCalculator.exe
+C:\Users\Jasper\Documents\GitHub\BasicEquationCalculator\bin\Debug\BasicEquationCalculator.pdb
+C:\Users\Jasper\Documents\GitHub\BasicEquationCalculator\obj\Debug\BasicEquationCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Jasper\Documents\GitHub\BasicEquationCalculator\obj\Debug\BasicEquationCalculator.exe
+C:\Users\Jasper\Documents\GitHub\BasicEquationCalculator\obj\Debug\BasicEquationCalculator.pdb
