@@ -8,14 +8,14 @@ namespace BasicEquationCalculator
 {
     public class Point
     {
-        public Point(int x, int y)
+        public Point(float x, float y)
         {
-            X = x;
-            Y = y;
+            X = (float)Math.Round(x, 4);
+            Y = (float)Math.Round(y, 4);
         }
 
-        public int X { get; private set; }
-        public int Y { get; private set; }
+        public float X { get; private set; }
+        public float Y { get; private set; }
 
         public override bool Equals(object obj)
         {
@@ -29,7 +29,12 @@ namespace BasicEquationCalculator
 
         public override int GetHashCode()
         {
-            return X ^ Y;
+            return X.GetHashCode() ^ Y.GetHashCode();
+        }
+
+        public override string ToString()
+        {
+            return "(" + X + ", " + Y + ")";
         }
     }
 }
